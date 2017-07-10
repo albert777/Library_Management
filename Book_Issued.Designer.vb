@@ -187,5 +187,4 @@ Partial Class Book_Issued
     Friend WithEvents pub As DataGridViewTextBoxColumn
     Friend WithEvents return_date As DataGridViewTextBoxColumn
     Friend WithEvents Button2 As Button
-End Clas
-test
+End class
